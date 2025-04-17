@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: gscore
+  datasource:
+    url: jdbc:mysql://localhost:3306/gscore?allowLoadLocalInfile=true
+    username: nhan
+    password: 123456
+
+application:
+  frontend:
+    url: http://localhost:5173
+#  jpa:
+#    hibernate:
+#      ddl-auto: update
