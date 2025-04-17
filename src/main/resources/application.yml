@@ -8,7 +8,7 @@ spring:
 
 application:
   frontend:
-    url: http://localhost:5173
+    url: https://nhanng9642.github.io
 #  jpa:
 #    hibernate:
 #      ddl-auto: update
